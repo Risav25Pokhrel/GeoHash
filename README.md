@@ -15,16 +15,16 @@
 - **Flutter Map**: Provides mapping functionality similar to Google Maps API.
 - **Firebase**: Used as the backend database for storing and retrieving location-related data.
 
-<img src="geohash/outputs/demo.gif" alt="Demo GIF" width="300"/>
+<img src="/outputs/demo.gif" alt="Demo GIF" width="250"/>
 *Caption: Demo*
 
-<img src="geohash/outputs/demo2.gif" alt="Updating Polygon GIF" width="300"/>
+<img src="/outputs/demo2.gif" alt="Updating Polygon GIF" width="250"/>
 *Caption: Updating Polygon*
 
-<img src="/outputs/1.jpg" alt="Image 1" width="300"/>
+<img src="/outputs/1.jpg" alt="Image 1" width="250"/>
 
-<img src="/outputs/2.jpg" alt="Image 2" width="300"/>
+<img src="/outputs/2.jpg" alt="Image 2" width="250"/>
 *Caption: Zoom Out View*
 
-<img src="geohash/outputs/3.jpg" alt="Image 3" width="300"/>
+<img src="/outputs/3.jpg" alt="Image 3" width="250"/>
 *Caption: Polygon Color Picker*
