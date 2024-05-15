@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518384271956",
+    "project_id": "geohashing-8acfe",
+    "storage_bucket": "geohashing-8acfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518384271956:android:5d047a7d303a70721323c1",
+        "android_client_info": {
+          "package_name": "com.example.geohash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVKZvATlmZQV5lY8T90lsc8snlkfP97jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
