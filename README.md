@@ -18,13 +18,13 @@
 ![image View](\geohash\outputs\demo.gif)
 *Caption: demo*
 
-![image View](\geohash\outputs\demo2.gif)
+![image View](/geohash/outputs/demo2.gif)
 *Caption: Updating Polygon*
 
 
 ![image View](\geohash\outputs\1.jpg)
 
-![image View](\outputs\2.jpg)
+![image View](/outputs/2.jpg)
 *Caption: Zoom Out View*
 
 ![image View](\geohash\outputs\3.jpg)
