@@ -21,9 +21,9 @@
 <img src="geohash/outputs/demo2.gif" alt="Updating Polygon GIF" width="300"/>
 *Caption: Updating Polygon*
 
-<img src="geohash/outputs/1.jpg" alt="Image 1" width="300"/>
+<img src="/outputs/1.jpg" alt="Image 1" width="300"/>
 
-<img src="geohash/outputs/2.jpg" alt="Image 2" width="300"/>
+<img src="/outputs/2.jpg" alt="Image 2" width="300"/>
 *Caption: Zoom Out View*
 
 <img src="geohash/outputs/3.jpg" alt="Image 3" width="300"/>
